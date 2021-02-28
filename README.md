@@ -20,10 +20,10 @@ Octave1.0, Anomaly Detection, PCA, Clustering, Regression, Classification, Neura
 
 ## Illustrations <br>
 <img src="https://user-images.githubusercontent.com/78420756/109415055-aee23080-79b6-11eb-9771-ba229d9336ca.PNG" width="280" height="320"> <img src="https://user-images.githubusercontent.com/78420756/109415057-b30e4e00-79b6-11eb-8323-882d08549520.PNG" width="280" height="320"> <img src="https://user-images.githubusercontent.com/78420756/109415058-b4d81180-79b6-11eb-92ae-c86ab772732d.PNG" width="280" height="320"> <br>
-Anomaly Detection System <p>
+Anomaly Detection System | Source: Coursera Machine Learning Course by Andrew Ng <p>
   
 <img src="https://user-images.githubusercontent.com/78420756/109415061-b73a6b80-79b6-11eb-9bbe-2e7d26d905ea.PNG" width="300" height="320"> <img src="https://user-images.githubusercontent.com/78420756/109415062-b86b9880-79b6-11eb-85cd-933a21153a1e.PNG" width="300" height="320"> <br>
-A simple Logistic Regression Classifier
+A simple Logistic Regression Classifier | Source: Coursera Machine Learning Course by Andre Ng
 
 
 ## Project status <br>
