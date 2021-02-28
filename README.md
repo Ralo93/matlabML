@@ -23,7 +23,7 @@ Octave1.0, Anomaly Detection, PCA, Clustering, Regression, Classification, Neura
 Anomaly Detection System <p>
   
 <img src="https://user-images.githubusercontent.com/78420756/109415061-b73a6b80-79b6-11eb-9bbe-2e7d26d905ea.PNG" width="300" height="320"> <img src="https://user-images.githubusercontent.com/78420756/109415062-b86b9880-79b6-11eb-85cd-933a21153a1e.PNG" width="300" height="320"> <br>
-A simple Support Vector Machine
+A simple Logistic Regression Classifier
 
 
 ## Project status <br>
