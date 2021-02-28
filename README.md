@@ -7,7 +7,7 @@
 
 ## General info
 This is a repository of ML approaches spanning from regression over clustering to recommender systems. So far, the code is mainly from the coursera course "Machine Learning" from Stanford Online. I plan to refactor most of the classes for my personal use due to the fact, that those implementations are very fast, bug-free and can be used from the command line. <br>
-Please note, that I personally have altered most of the important machine learning algorithms listed here.
+Please note, that I have not yet altered all of the machine learning algorithms listed here, but will do so in the future.
 
 ## Sources
 Coursera Course "Machine Learning" from Stanford Online.
